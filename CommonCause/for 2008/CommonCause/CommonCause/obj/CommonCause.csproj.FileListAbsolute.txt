@@ -1,0 +1,11 @@
+D:\Project-4\CommonCause\CommonCause\bin\Debug\CommonCause.dll
+D:\Project-4\CommonCause\CommonCause\bin\Debug\CommonCause.pdb
+D:\Project-4\CommonCause\CommonCause\bin\Debug\BandObjectLib.dll
+D:\Project-4\CommonCause\CommonCause\bin\Debug\Interop.SHDocVw.dll
+D:\Project-4\CommonCause\CommonCause\obj\Debug\ResolveAssemblyReference.cache
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.CommonCause.resources
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.Properties.Resources.resources
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.SaveBookmarkForm.resources
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.csproj.GenerateResource.Cache
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.dll
+D:\Project-4\CommonCause\CommonCause\obj\Debug\CommonCause.pdb

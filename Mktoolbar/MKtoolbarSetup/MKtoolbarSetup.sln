@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MKtoolbarSetup", "MKtoolbarSetup\MKtoolbarSetup.vdproj", "{533187B8-5F4A-49D4-9BB8-2F9A3A452E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533187B8-5F4A-49D4-9BB8-2F9A3A452E20}.Debug|Default.ActiveCfg = Debug
+		{533187B8-5F4A-49D4-9BB8-2F9A3A452E20}.Debug|Default.Build.0 = Debug
+		{533187B8-5F4A-49D4-9BB8-2F9A3A452E20}.Release|Default.ActiveCfg = Release
+		{533187B8-5F4A-49D4-9BB8-2F9A3A452E20}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+E:\Project 9\mktoolbarRegistryTest\mktoolbarRegistryTest\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 9\mktoolbarRegistryTest\mktoolbarRegistryTest\obj\Debug\mktoolbarRegistryTest.Form1.resources
+E:\Project 9\mktoolbarRegistryTest\mktoolbarRegistryTest\obj\Debug\mktoolbarRegistryTest.Properties.Resources.resources
+E:\Project 9\mktoolbarRegistryTest\mktoolbarRegistryTest\obj\Debug\mktoolbarRegistryTest.csproj.GenerateResource.Cache

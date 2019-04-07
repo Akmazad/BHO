@@ -1,0 +1,10 @@
+E:\Project 9\MKtoolbar\MKtoolbar\bin\Debug\MKtoolbar.dll
+E:\Project 9\MKtoolbar\MKtoolbar\bin\Debug\MKtoolbar.pdb
+E:\Project 9\MKtoolbar\MKtoolbar\bin\Debug\BandObjectLib.dll
+E:\Project 9\MKtoolbar\MKtoolbar\bin\Debug\Interop.SHDocVw.dll
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\MKtoolbar.MKtoolbar.resources
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\MKtoolbar.Properties.Resources.resources
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\MKtoolbar.csproj.GenerateResource.Cache
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\MKtoolbar.dll
+E:\Project 9\MKtoolbar\MKtoolbar\obj\Debug\MKtoolbar.pdb

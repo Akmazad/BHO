@@ -1,0 +1,34 @@
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\bin\Debug\iprimrtoolbar.dll
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\bin\Debug\iprimrtoolbar.pdb
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\ResolveAssemblyReference.cache
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.dll
+G:\azad\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.pdb
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\ResolveAssemblyReference.cache
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.dll
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.pdb
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\bin\Debug\iprimrtoolbar.dll
+G:\azad_switched_2_room\AT OFFICE\iprimrtoolbar\iprimrtoolbar\bin\Debug\iprimrtoolbar.pdb
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar\iprimrtoolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar\iprimrtoolbar\obj\Debug\iprimrtoolbar.dll
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.dll
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\iprimrtoolbar.dll
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\iprimrtoolbar.pdb
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\BandObjectLib.dll
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Mamun\Desktop\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.pdb
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\iprimrtoolbar.dll
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\bin\Debug\iprimrtoolbar.pdb
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\ResolveAssemblyReference.cache
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.dll
+G:\azad_switched_2_room\iprimrtoolbar_prev\iprimrtoolbar\obj\Debug\iprimrtoolbar.pdb

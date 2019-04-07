@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MKtoolbar">
+</Property><Property Name="Solution File" Value="E:\Az\azad from office\main projects\Project 9\MKtoolbar\MKtoolbar.sln">
+</Property><Property Name="User Options File" Value="E:\Az\azad from office\main projects\Project 9\MKtoolbar\MKtoolbar.suo">
+</Property><Property Name="Date" Value="Tuesday, April 24, 2012">
+</Property><Property Name="Time" Value="18:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MKtoolbar.sln" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MKtoolbar.suo" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar.suo">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.csproj" Description="Project file successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\MKtoolbar.csproj">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\BHO\AssemblyInfo.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\BHO\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\BHO\MKtoolbarBHO.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\BHO\MKtoolbarBHO.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Installer1.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Installer1.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Installer1.Designer.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Installer1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\MKtoolbar.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\RestImpl.cs" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\RestImpl.cs">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\sampleLogo11.jpg" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\sampleLogo11.jpg">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\BandObjects.snk" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\BandObjects.snk">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\back_toolbar.jpg" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\back_toolbar.jpg">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\careerImage.jpg" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\careerImage.jpg">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\dropdown_arrow.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\dropdown_arrow.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\go_arrow.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\go_arrow.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\left_dot_bar.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\left_dot_bar.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\logo.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\logo.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\middle_bar.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\middle_bar.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\middle_bar1.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\middle_bar1.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\rss-feed.jpg" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\rss-feed.jpg">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\searchLogo.bmp" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\searchLogo.bmp">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\sqr_01.jpg" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\sqr_01.jpg">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\sqr_02.png" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\sqr_02.png">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Resources\toolbar_logo.gif" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Resources\toolbar_logo.gif">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.resx" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\MKtoolbar.resx">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\Properties\Resources.resx" Description="File successfully backed up as E:\Az\azad from office\main projects\Project 9\MKtoolbar\Backup\MKtoolbar\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MKtoolbar.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MKtoolbar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MKtoolbar" Source="MKtoolbar\MKtoolbar.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

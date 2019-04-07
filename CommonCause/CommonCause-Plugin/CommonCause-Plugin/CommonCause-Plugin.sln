@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CommonCause-Plugin", "CommonCause-Plugin\CommonCause-Plugin.vdproj", "{3FE48BF6-E3D9-47B3-ABAC-D1BE3B703318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE48BF6-E3D9-47B3-ABAC-D1BE3B703318}.Debug|Default.ActiveCfg = Debug
+		{3FE48BF6-E3D9-47B3-ABAC-D1BE3B703318}.Debug|Default.Build.0 = Debug
+		{3FE48BF6-E3D9-47B3-ABAC-D1BE3B703318}.Release|Default.ActiveCfg = Release
+		{3FE48BF6-E3D9-47B3-ABAC-D1BE3B703318}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

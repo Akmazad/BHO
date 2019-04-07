@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CommonCause_Vista-Plugin", "CommonCause_Vista-Plugin\CommonCause_Vista-Plugin.vdproj", "{75BDFEA4-C8A0-4AFF-B932-2C823DE2AE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BDFEA4-C8A0-4AFF-B932-2C823DE2AE0F}.Debug|Default.ActiveCfg = Debug
+		{75BDFEA4-C8A0-4AFF-B932-2C823DE2AE0F}.Debug|Default.Build.0 = Debug
+		{75BDFEA4-C8A0-4AFF-B932-2C823DE2AE0F}.Release|Default.ActiveCfg = Release
+		{75BDFEA4-C8A0-4AFF-B932-2C823DE2AE0F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

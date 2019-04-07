@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\iprimrtoolbar.iprimrtoolbar.resources
+obj\Debug\iprimrtoolbar.csproj.GenerateResource.Cache
+obj\Debug\iprimrtoolbar.dll
+obj\Debug\iprimrtoolbar.pdb
+bin\Debug\iprimrtoolbar.dll
+bin\Debug\iprimrtoolbar.pdb
+bin\Debug\BandObjectLib.dll
+bin\Debug\Interop.SHDocVw.dll
